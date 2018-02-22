@@ -1,8 +1,6 @@
 class donnor_analytics():
     def __init__(self):
-        import os
-        import numpy as np
-        import datetime
+        pass
 
     def check_valid_record(self,line):
         split_line = line.split('|')
