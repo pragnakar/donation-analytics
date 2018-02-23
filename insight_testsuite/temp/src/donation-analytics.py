@@ -124,7 +124,6 @@ if __name__ == '__main__':
     import numpy as np
     import datetime
     import sys
-    import string
     obj = donnor_analytics()
     current_path = os.getcwd()
     global output_file
